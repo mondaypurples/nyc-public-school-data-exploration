@@ -8,3 +8,11 @@ For the purposes of this project, we'll be using data about New York City public
 - Combining SAT scores
 - Uncover any geographic patterns in the data
 - Extract longitude
+- Condense datasets - class size, Compute average class size
+- Condense demographics dataset, graduation dataset
+- Merge datasets
+- Handle missing values
+- Add school district column for mapping
+- Find correlations
+- Plot data
+- Analyse and draw insights
