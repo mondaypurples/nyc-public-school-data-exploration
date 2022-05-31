@@ -1,3 +1,5 @@
+This is a complete data science project - acquire raw data, explore, analyse NYC Public schools dataset. Investigate the correlations between SAT scores and demographics.
+
 For the purposes of this project, we'll be using data about New York City public schools, which can be found here https://data.cityofnewyork.us/browse?category=Education
 
 - Find all of the relevant datasets
@@ -16,3 +18,4 @@ For the purposes of this project, we'll be using data about New York City public
 - Find correlations
 - Plot data
 - Analyse and draw insights
+
